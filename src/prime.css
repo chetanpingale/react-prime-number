@@ -1,0 +1,25 @@
+.app-form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn {
+    min-width: 100px;
+    margin-left: 2%;
+}
+
+input {
+    min-width: 400px;
+    margin: 2%;
+}
+label {
+    font-size: 21px;
+}
+.app-container {
+    margin-top: 5%;
+    text-align: center;
+}
+.result-div {
+    margin-top: 2%;
+    word-wrap: break-word;
+}
